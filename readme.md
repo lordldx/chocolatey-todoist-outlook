@@ -1,0 +1,1 @@
+A chocolatey package for the todoist outlook plugin
