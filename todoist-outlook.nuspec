@@ -29,7 +29,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <version>2.7.8</version>
     <!-- <packageSourceUrl>Where is this Chocolatey package located (think GitHub)? packageSourceUrl is highly recommended for the community feed</packageSourceUrl>-->
     <!-- owners is a poor name for maintainers of the package. It sticks around by this name for compatibility reasons. It basically means you. -->
-    <!--<owners>__REPLACE_YOUR_NAME__</owners>-->
+    <owners>Lorenzo Dieryckx</owners>
     <!-- ============================== -->
 
     <!-- == SOFTWARE SPECIFIC SECTION == -->
@@ -47,9 +47,14 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <!--<docsUrl>At what url are the software docs located?</docsUrl>-->
     <!--<mailingListUrl></mailingListUrl>-->
     <!--<bugTrackerUrl></bugTrackerUrl>-->
-    <tags>todoist-outlook todoist outlook plugin doist</tags>
+    <tags>todoist-outlook todoist outlook plugin doist admin</tags>
     <summary>The outlook plugin for todoist</summary>
-    <description>The outlook plugin for todosit</description>
+    <description>
+      Access your to do list, turn emails into tasks, and collaborate on shared projects – all from within outlook.
+      Say goodbye to lost and forgotten emails. Todoist lets you turn an email into a task with one click, so you'll always remember to follow up.
+      Advanced task management features let you organize tasks into projects, set priorities and deadlines, and use color-coding to manage your inbox.
+      Share projects, assign tasks to others, set deadlines, and collaborate on shared tasks in real-time, directly from your Outlook inbox.
+    </description>
     <!-- <releaseNotes>__REPLACE_OR_REMOVE__MarkDown_Okay</releaseNotes> -->
     <!-- =============================== -->      
 
